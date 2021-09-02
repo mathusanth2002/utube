@@ -37,7 +37,7 @@
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
       "value": "1496802577",
-      "required":,true
+      "required":true
     },
     "VIDEO_DESCRIPTION": {
       "description": "Any default description to be aded to the video.",
