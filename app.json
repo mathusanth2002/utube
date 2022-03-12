@@ -7,12 +7,12 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": "1991699635:AAEKPca5JvN4pxusGNTf-m7C4kxjK_GcIvU"
+      "value": "5139041987:AAGOLpGboElqDW1hIfto5NPQbZlpDyAwwFw"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
-      "value": "youtubeitbot",
-      "required":false
+      "value": "utubeuploader_x_bot",
+      "required":true
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
